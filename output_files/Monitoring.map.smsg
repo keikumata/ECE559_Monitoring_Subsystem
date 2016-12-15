@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at mainVGA.v(944): always construct contains both blocking and non-blocking assignments File: C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/mainVGA.v Line: 944

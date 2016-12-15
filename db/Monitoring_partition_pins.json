@@ -1,0 +1,337 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "debug[0]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[1]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[2]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[3]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[4]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[5]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[6]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[7]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[8]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[9]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[10]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[11]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[12]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[13]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[14]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[15]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[16]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[17]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[18]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[19]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[20]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[21]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[22]",
+					"strict" : false
+				},
+				{
+					"name" : "debug[23]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[0]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[1]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[2]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[3]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[4]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[5]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[6]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[7]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[8]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[9]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[10]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[11]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[12]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[13]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[14]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[15]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[16]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[17]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[18]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[19]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[20]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[21]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[22]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[23]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[24]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[25]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[26]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[27]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[28]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[29]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[30]",
+					"strict" : false
+				},
+				{
+					"name" : "avg_latency[31]",
+					"strict" : false
+				},
+				{
+					"name" : "Clock_To_Test",
+					"strict" : false
+				},
+				{
+					"name" : "oHS",
+					"strict" : false
+				},
+				{
+					"name" : "oVS",
+					"strict" : false
+				},
+				{
+					"name" : "b_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "b_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "b_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "b_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "g_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "g_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "g_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "g_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "r_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "r_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "r_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "r_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sys_clock",
+					"strict" : false
+				},
+				{
+					"name" : "reset_sig",
+					"strict" : false
+				},
+				{
+					"name" : "latency_select[4]",
+					"strict" : false
+				},
+				{
+					"name" : "latency_select[0]",
+					"strict" : false
+				},
+				{
+					"name" : "latency_select[1]",
+					"strict" : false
+				},
+				{
+					"name" : "latency_select[2]",
+					"strict" : false
+				},
+				{
+					"name" : "latency_select[3]",
+					"strict" : false
+				},
+				{
+					"name" : "latency_select[5]",
+					"strict" : false
+				},
+				{
+					"name" : "test_trigger",
+					"strict" : false
+				},
+				{
+					"name" : "fwd_priority_sig",
+					"strict" : false
+				},
+				{
+					"name" : "fwd_look_now",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

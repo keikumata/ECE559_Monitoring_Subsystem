@@ -1,0 +1,105 @@
+Quartus Prime Archive log --	C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitoring_FinalVersion_Almost.qarlog
+
+Archive:	C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitoring_FinalVersion_Almost.qar
+Date:		Thu Dec 15 12:37:21 2016
+Quartus Prime		15.1.0 Build 185 10/21/2015 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/DE0_CV_VGA_Pattern.sdc
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Forward_Buffer.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/MainRamMif.mif
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/Monitor_Tester.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/ROM_ADDR_GEN.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/ROM_ADDR_GEN_rx.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/ROM_ADDR_GEN_tx.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/Test_Frames.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/Test_Frames.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/Test_Frames.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/XMT_Counter.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/debounce.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/look_now_FSM.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/look_now_FSM_rx.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/look_now_FSM_tx.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitor_TestHarness/test_frames.mif
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitoring.qpf
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitoring.qsf
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/MonitoringSys.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/MonitoringSys.vwf
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Monitoring_assignment_defaults.qdf
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/RX_reg24bit.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/RX_reg24bit.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/RX_reg24bit.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Receive_Buffer.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Receive_Buffer.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Receive_Buffer.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Reset_Delay.v
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Test1.vwf
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Test_Control_Waveform.vwf
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Transmit_Buffer.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Transmit_Buffer.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Transmit_Buffer.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Waveform.vwf
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/Waveform1.vwf
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/alt_div.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/alt_div.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/alt_div.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/alteraPLL.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/alteraPLL.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/alteraPLL.sip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/alteraPLL.spd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/alteraPLL.v
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/alteraPLL/alteraPLL_0002.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/alteraPLL/alteraPLL_0002.v
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/alteraPLL_sim/alteraPLL.vo
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/assignment_defaults.qdf
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/division.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/division.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/division.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/fiftyToTenPLL.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/fiftyToTenPLL.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/fiftyToTenPLL.sip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/fiftyToTenPLL.spd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/fiftyToTenPLL.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/fiftyToTenPLL/fiftyToTenPLL_0002.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/fiftyToTenPLL/fiftyToTenPLL_0002.v
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/fiftyToTenPLL_sim/fiftyToTenPLL.vho
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/img_data_3.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/img_data_3.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/img_data_3.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/img_data_logo.mif
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/index_logo.mif
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/index_logo_3.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/index_logo_3.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/index_logo_3.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/internal_memory_updated.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/latch_24bit.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/lpm_div.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/lpm_div.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/lpm_div.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/lpm_div_32.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/lpm_div_32.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/lpm_div_32.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/mainVGA.v
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/monitoringRamTwoPort.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/monitoringRamTwoPort.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/monitoringRamTwoPort.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/monitoring_ram.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/monitoring_ram.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/monitoring_ram.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/numberRAM.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/numberRAM.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/numberRAM.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/reg16.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/reg32.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/register16.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/register16.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/register16.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/register32.cmp
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/register32.qip
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/register32.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/vga_controller_test.vhd
+C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/video_sync_generator.vhd
+	======= Total: 94 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

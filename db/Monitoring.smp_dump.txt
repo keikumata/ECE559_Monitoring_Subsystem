@@ -1,0 +1,42 @@
+
+State Machine - |MonitoringSys|Monitor_Tester:Test_Harness|look_now_FSM_tx:XMT_Look_Now|scur
+Name scur.TOGGLE scur.SET scur.IDLE1 scur.IDLE 
+scur.IDLE 0 0 0 0 
+scur.IDLE1 0 0 1 1 
+scur.SET 0 1 0 1 
+scur.TOGGLE 1 0 0 1 
+
+State Machine - |MonitoringSys|Monitor_Tester:Test_Harness|look_now_FSM_rx:RCV_Look_Now|scur
+Name scur.TOGGLE scur.SET scur.IDLE1 scur.IDLE 
+scur.IDLE 0 0 0 0 
+scur.IDLE1 0 0 1 1 
+scur.SET 0 1 0 1 
+scur.TOGGLE 1 0 0 1 
+
+State Machine - |MonitoringSys|Monitor_Tester:Test_Harness|ROM_ADDR_GEN_tx:XMTROM_ADDR_GENERATOR|scur
+Name scur.DELAY scur.GEN scur.SET scur.IDLE1 scur.IDLE0 
+scur.IDLE0 0 0 0 0 0 
+scur.IDLE1 0 0 0 1 1 
+scur.SET 0 0 1 0 1 
+scur.GEN 0 1 0 0 1 
+scur.DELAY 1 0 0 0 1 
+
+State Machine - |MonitoringSys|Monitor_Tester:Test_Harness|XMT_Counter:XMT_LatencyCounter|scur
+Name scur.OVRFLW scur.SET scur.IDLE0 
+scur.IDLE0 0 0 0 
+scur.SET 0 1 1 
+scur.OVRFLW 1 0 1 
+
+State Machine - |MonitoringSys|Monitor_Tester:Test_Harness|ROM_ADDR_GEN_rx:RCVROM_ADDR_GENERATOR|scur
+Name scur.DELAY scur.GEN scur.SET scur.IDLE1 scur.IDLE0 
+scur.IDLE0 0 0 0 0 0 
+scur.IDLE1 0 0 0 1 1 
+scur.SET 0 0 1 0 1 
+scur.GEN 0 1 0 0 1 
+scur.DELAY 1 0 0 0 1 
+
+State Machine - |MonitoringSys|mainVGA:VGA|addingExtraDigits
+Name addingExtraDigits.00 addingExtraDigits.10 addingExtraDigits.01 
+addingExtraDigits.00 0 0 0 
+addingExtraDigits.01 1 0 1 
+addingExtraDigits.10 1 1 0 

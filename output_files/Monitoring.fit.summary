@@ -1,0 +1,20 @@
+Fitter Status : Successful - Thu Dec 15 13:23:09 2016
+Quartus Prime Version : 15.1.0 Build 185 10/21/2015 SJ Lite Edition
+Revision Name : Monitoring
+Top-level Entity Name : MonitoringSys
+Family : Cyclone V
+Device : 5CEBA4F23C7
+Timing Models : Final
+Logic utilization (in ALMs) : 3,155 / 18,480 ( 17 % )
+Total registers : 639
+Total pins : 110 / 224 ( 49 % )
+Total virtual pins : 0
+Total block memory bits : 598,040 / 3,153,920 ( 19 % )
+Total RAM Blocks : 75 / 308 ( 24 % )
+Total DSP Blocks : 11 / 66 ( 17 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 4 ( 25 % )
+Total DLLs : 0 / 4 ( 0 % )

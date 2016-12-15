@@ -1,0 +1,169 @@
+Restore Archived Project report for Monitoring
+Thu Dec 15 11:58:59 2016
+Quartus Prime Version 15.1.0 Build 185 10/21/2015 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2015 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus Prime License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Dec 15 11:58:59 2016 ;
+; Revision Name                   ; Monitoring                            ;
+; Top-level Entity Name           ; MonitoringSys                         ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works.qar' into the 'C:/Users/Kei Yoshikoshi/Documents/ECE559/Monitoring_VGA_Tester_Everything_Works_restored/' directory
+Info: Generated report 'Monitoring.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/altera_lite/15.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 654 megabytes
+    Info: Processing ended: Thu Dec 15 11:58:59 2016
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++-----------------------------------------+
+; Files Restored                          ;
++-----------------------------------------+
+; File Name                               ;
++-----------------------------------------+
+; qar_info.json                           ;
+; DE0_CV_VGA_Pattern.sdc                  ;
+; Forward_Buffer.vhd                      ;
+; MainRamMif.mif                          ;
+; Monitor_TestHarness/Monitor_Tester.vhd  ;
+; Monitor_TestHarness/ROM_ADDR_GEN.vhd    ;
+; Monitor_TestHarness/ROM_ADDR_GEN_rx.vhd ;
+; Monitor_TestHarness/ROM_ADDR_GEN_tx.vhd ;
+; Monitor_TestHarness/Test_Frames.cmp     ;
+; Monitor_TestHarness/Test_Frames.qip     ;
+; Monitor_TestHarness/Test_Frames.vhd     ;
+; Monitor_TestHarness/XMT_Counter.vhd     ;
+; Monitor_TestHarness/debounce.vhd        ;
+; Monitor_TestHarness/look_now_FSM.vhd    ;
+; Monitor_TestHarness/look_now_FSM_rx.vhd ;
+; Monitor_TestHarness/look_now_FSM_tx.vhd ;
+; Monitor_TestHarness/test_frames.mif     ;
+; Monitoring.qpf                          ;
+; Monitoring.qsf                          ;
+; MonitoringSys.vhd                       ;
+; MonitoringSys.vwf                       ;
+; Monitoring_assignment_defaults.qdf      ;
+; RX_reg24bit.cmp                         ;
+; RX_reg24bit.qip                         ;
+; RX_reg24bit.vhd                         ;
+; Receive_Buffer.cmp                      ;
+; Receive_Buffer.qip                      ;
+; Receive_Buffer.vhd                      ;
+; Reset_Delay.v                           ;
+; Test1.vwf                               ;
+; Test_Control_Waveform.vwf               ;
+; Transmit_Buffer.cmp                     ;
+; Transmit_Buffer.qip                     ;
+; Transmit_Buffer.vhd                     ;
+; Waveform.vwf                            ;
+; Waveform1.vwf                           ;
+; alt_div.cmp                             ;
+; alt_div.qip                             ;
+; alt_div.vhd                             ;
+; alteraPLL.cmp                           ;
+; alteraPLL.qip                           ;
+; alteraPLL.sip                           ;
+; alteraPLL.spd                           ;
+; alteraPLL.v                             ;
+; alteraPLL/alteraPLL_0002.qip            ;
+; alteraPLL/alteraPLL_0002.v              ;
+; alteraPLL_sim/alteraPLL.vo              ;
+; assignment_defaults.qdf                 ;
+; division.cmp                            ;
+; division.qip                            ;
+; division.vhd                            ;
+; fiftyToTenPLL.cmp                       ;
+; fiftyToTenPLL.qip                       ;
+; fiftyToTenPLL.sip                       ;
+; fiftyToTenPLL.spd                       ;
+; fiftyToTenPLL.vhd                       ;
+; fiftyToTenPLL/fiftyToTenPLL_0002.qip    ;
+; fiftyToTenPLL/fiftyToTenPLL_0002.v      ;
+; fiftyToTenPLL_sim/fiftyToTenPLL.vho     ;
+; img_data_3.cmp                          ;
+; img_data_3.qip                          ;
+; img_data_3.vhd                          ;
+; img_data_logo.mif                       ;
+; index_logo.mif                          ;
+; index_logo_3.cmp                        ;
+; index_logo_3.qip                        ;
+; index_logo_3.vhd                        ;
+; internal_memory_updated.vhd             ;
+; latch_24bit.vhd                         ;
+; lpm_div.cmp                             ;
+; lpm_div.qip                             ;
+; lpm_div.vhd                             ;
+; lpm_div_32.cmp                          ;
+; lpm_div_32.qip                          ;
+; lpm_div_32.vhd                          ;
+; mainVGA.v                               ;
+; monitoringRamTwoPort.cmp                ;
+; monitoringRamTwoPort.qip                ;
+; monitoringRamTwoPort.vhd                ;
+; monitoring_ram.cmp                      ;
+; monitoring_ram.qip                      ;
+; monitoring_ram.vhd                      ;
+; numberRAM.cmp                           ;
+; numberRAM.qip                           ;
+; numberRAM.vhd                           ;
+; reg16.vhd                               ;
+; reg32.vhd                               ;
+; register16.cmp                          ;
+; register16.qip                          ;
+; register16.vhd                          ;
+; register32.cmp                          ;
+; register32.qip                          ;
+; register32.vhd                          ;
+; vga_controller_test.vhd                 ;
+; video_sync_generator.vhd                ;
++-----------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+

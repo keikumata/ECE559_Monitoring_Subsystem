@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="fiftyToTenPLL_sim/fiftyToTenPLL.vho" type="VHDL" />
+ <topLevel name="fiftyToTenPLL" />
+ <deviceFamily name="cyclonev" />
+</simPackage>
